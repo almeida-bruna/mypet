@@ -1,0 +1,21 @@
+body{
+  background-color: #01A9DB;
+}
+
+.jumbotron{
+  /* background-color: #E6E6E6 !important; */
+}
+
+.container_main{
+  width: 100%;
+  height: auto;
+}
+
+.carousel slide{
+  margin: auto;
+}
+
+img{
+  margin-left: 20%;
+
+}
